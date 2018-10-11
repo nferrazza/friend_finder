@@ -1,24 +1,24 @@
 {
-  "name": "friendfinder",
+  "name": "friend_finder",
   "version": "1.0.0",
-  "description": "friend finder app ",
-  "main": "extraClass.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "friend",
-    "finder",
-    "friendfinder"
-  ],
-  "author": "nf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nferrazza/friend_finder.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nferrazza/friend_finder/issues"
+  },
+  "homepage": "https://github.com/nferrazza/friend_finder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "path": "^0.12.7"
+    "express": "^4.16.3"
   }
 }
